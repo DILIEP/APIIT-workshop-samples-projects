@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: APT-Spring-Boot
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: diliep
+Implementation-Vendor-Id: com.exam.paper
+Build-Jdk: 1.8.0_45
+Implementation-URL: http://projects.spring.io/spring-boot/APTSpringBoo
+ t/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
